@@ -1,12 +1,11 @@
-import './App.css';
+import './style/App.css';
 import Row from './Row';
 import Banner from './Banner';
 import request from './request';
 
 function App() {
   return (
-    <div className="App">
-      <h1>teste</h1>
+    <div className="app">
 
         <Banner />
 
